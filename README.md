@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [GameStatistics](https://github.com/Sampster40/GameStatistics)
+- 🔭 I’m currently working on [GameStatistics](https://github.com/Sampster40/Projects)
 - 🌱 I’m currently learning [C++]
 - 📫 How to reach me: [SamAWilliams03@gmail.com]
 - ⚡ Fun fact: [I like to swim]
