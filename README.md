@@ -19,11 +19,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ![Sampster40's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sampster40&show_icons=true&theme=radical)
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/samuel-williams-3b8a72342/)
