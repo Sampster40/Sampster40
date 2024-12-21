@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Sampster40! 👋
 
-<!--
-**Sampster40/Sampster40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [GameStatistics](https://github.com/Sampster40/GameStatistics)
+- 🌱 I’m currently learning [C++]
+- 📫 How to reach me: [SamAWilliams03@gmail.com]
+- ⚡ Fun fact: [I like to swim]
+
+## 🛠️ Languages and Tools
+
+- **Languages:** [C++]
+- **Frameworks:** [Entry Unity/UnrealEngine]
+- **Tools:** [XCode/VisualStudio]
+
+## 📈 GitHub Stats
+
+![Sampster40's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sampster40&show_icons=true&theme=radical)
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/samuel-williams-3b8a72342/)
+
+Thanks for visiting my profile! Have a great day! 😄
