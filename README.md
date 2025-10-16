@@ -1,4 +1,4 @@
-# Hi there, I'm Sampster40! 👋
+# Hi there, I'm Sam! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and exploring new technologies.
 
